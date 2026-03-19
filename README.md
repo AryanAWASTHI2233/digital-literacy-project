@@ -1,6 +1,6 @@
 # Digital Literacy Project
 
-Name: ARYAN AWASTHI
+Name: ARYAN AWASTHI ,
 Reg No: 25BCY10178  
 
 ## Tasks Completed:
