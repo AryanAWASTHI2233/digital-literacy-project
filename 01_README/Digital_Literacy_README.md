@@ -5,7 +5,11 @@ Project Overview:
 This repository contains all the work completed as part of the Student Digital Ambassador Programme, spanning five modules. The project covers digital literacy, professional online presence, coding practice, communication etiquette, and cybercrime awareness.
 
 
-Student: [ARYAN AWASTHI] Reg. No.: [25BCY10178] Branch: [CSE (CYBER SECURITY AND DIGITAL FORENSICS)] Year: 2025-2029 Course Code: [CSE0001]
+Student: [ARYAN AWASTHI]
+Reg. No.: [25BCY10178]
+Branch: [CSE (CYBER SECURITY AND DIGITAL FORENSICS)]
+Year: 2025-2029
+Course Code: [CSE0001]
 
 
 Task 1 – Create a Digital Literacy Awareness Infographic
