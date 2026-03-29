@@ -1,5 +1,5 @@
 {{{Responsible Social Media Use - Checklist
-for College Students}}}
+for College Students}}} 
 
  ✅ Responsible Social Media Use
 A Checkpoint Guide for College Students
